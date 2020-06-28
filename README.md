@@ -9,7 +9,7 @@ Nessa aplicação, uma ONG pode cadastrar um caso: com título, descrição e va
 <img src="frontend/src/assets/heroes.png" alt="heroes" height="250"> 
 
 
-#### Para rodar a aplicação
+#### Para executar a aplicação
 
 Execute ```npm install``` nas pastas backend, frontend e mobile, para instalar as dependências.
 
